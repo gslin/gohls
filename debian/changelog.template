@@ -1,4 +1,4 @@
-gohls (1.0.5-1) trusty; urgency=low
+gohls (1.0.5-1ppa1) %%DIST%%; urgency=low
 
   * Initial release.
 
