@@ -1,0 +1,15 @@
+Source: gohls
+Section: web
+Priority: optional
+Maintainer: Gea-Suan Lin (PPA) <gslin@gslin.org>
+Build-Depends: debhelper (>= 8.0.0), golang, realpath
+Standards-Version: 3.9.4
+Homepage: https://github.com/kz26/gohls
+Vcs-Git: https://github.com/kz26/gohls.git
+Vcs-Browser: https://github.com/kz26/gohls
+
+Package: gohls
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Downloader for HTTP Live Streaming (HLS) streams, written in Golang
+ HTTP Live Streaming (HLS) downloader written in Golang.

@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: gohls
+Source: /usr/share/common-licenses/GPL-3
+
+Files: *
+Copyright: 2015 Kevin Zhang <kz26@github.com>
+License: GPL-3
