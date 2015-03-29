@@ -2,7 +2,7 @@ Source: gohls
 Section: web
 Priority: optional
 Maintainer: Gea-Suan Lin (PPA) <gslin@gslin.org>
-Build-Depends: debhelper (>= 8.0.0), golang, realpath
+Build-Depends: debhelper (>= 8.0.0), git, golang, realpath
 Standards-Version: 3.9.4
 Homepage: https://github.com/kz26/gohls
 Vcs-Git: https://github.com/kz26/gohls.git
